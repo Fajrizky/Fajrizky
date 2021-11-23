@@ -15,15 +15,9 @@
 ```javascript
 const fajrizky = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [PHP, Go, Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [Laravel, Gin, Vue, Flutter, Express, Node, Figma, VCS],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
