@@ -13,8 +13,8 @@
 - C++, Javascript, SQL, Java, Python, Dart
 
 ## 🛠 Tools & Technologies
-- ORM, MVC, VCS, Notion
-- Laravel, Gin Gonic, Node JS, Nest JS, Figma, Flutter
+- ORM, MVC, MVVC, VCS, Notion
+- Laravel, Gin Gonic, Express JS, Nest JS, Figma, Flutter, Vue JS
 - Docker
 
 ## 📖 Industry Knowledge
