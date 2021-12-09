@@ -6,10 +6,8 @@
 </br>
 </em></p>
 
-<div align="center">
 [![Linkedin: fajrizky diputra](https://img.shields.io/badge/-fajrizkydiputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajrizkydiputra/)](https://www.linkedin.com/in/fajrizkydiputra/)
 [![GitHub Fajrizky](https://img.shields.io/github/followers/Fajrizky?label=follow&style=social)](https://github.com/Fajrizky)
-</div>
 
 
 ## 👨🏻‍💻 Code
