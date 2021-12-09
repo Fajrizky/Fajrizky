@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fajrizky. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></h1>
-<h3 align="center">A Software Developer from Borneo</h3>
+<h1 align="center">Hi, I'm Fajrizky. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></h1>
+<h3 align="center"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="80"> A Software Developer from Borneo</h3>
 
 ## 👨🏻‍💻 Code
 - Go, PHP, Typescript
