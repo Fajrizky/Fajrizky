@@ -8,6 +8,9 @@
 
 [![Linkedin: fajrizky diputra](https://img.shields.io/badge/-fajrizkydiputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajrizkydiputra/)](https://www.linkedin.com/in/fajrizkydiputra/)
 
+
+[![Web Profile: fajrizky diputra](https://img.shields.io/badge/-fajrizkydiputra-blue?style=flat-square&logo=Webin&logoColor=white&link=http://profile.falaraborneo.com)](http://profile.falaraborneo.com)
+
 ## 👨🏻‍💻 Code
 - Go, PHP, Typescript
 - C++, Javascript, SQL, Java, Python, Dart
